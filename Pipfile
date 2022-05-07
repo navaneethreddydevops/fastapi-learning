@@ -15,5 +15,6 @@ alembic = "*"
 psycopg2-binary = "*"
 uvicorn = "*"
 python-dotenv = "*"
+datamodel-code-generator = "*"
 
 [dev-packages]
