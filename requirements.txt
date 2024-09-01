@@ -9,7 +9,7 @@ fastapi==0.76.0
 fastapi-sqlalchemy==0.2.1
 greenlet==1.1.2
 h11==0.13.0
-idna==3.3
+idna==3.7
 importlib-metadata==4.11.3
 importlib-resources==5.7.1
 mako==1.2.2
